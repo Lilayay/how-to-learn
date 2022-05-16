@@ -50,7 +50,7 @@
   left: 64px;
   z-index: 2;
   margin: 0;
-  width: 388px;
+  max-width: 388px;
   font-size: 18px;
   line-height: 25px;
   font-weight: normal;
@@ -109,7 +109,7 @@
 .two-columns__brief {
   margin: 0;
   line-height: 1.2;
-  width: 175px;
+  max-width: 175px;
   color: #2f80ed;
   font-size: 18px;
   font-weight: normal;
@@ -217,7 +217,7 @@
 
 .feynman__title {
   margin: 0;
-  width: 648px;
+  max-width: 648px;
   text-align: center;
   line-height: 1.15;
   font-size: 120px;
