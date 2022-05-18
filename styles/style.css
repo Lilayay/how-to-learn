@@ -290,6 +290,7 @@
   padding: 0;
   color: white;
   margin-top: 90px;
+  z-index: 2;
 }
 
 .section-subtitle_theme_dark {
@@ -297,6 +298,7 @@
   padding: 0;
   color: white;
   margin-top: 20px;
+  z-index: 2;
 }
 
 /* и элемента с модификатором вида ключ-значение */
