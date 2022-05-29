@@ -1,5 +1,6 @@
-.footer__social-icon {
-  width: 16px;
-  height: 16px;
-  padding-right: 10px;
+.resources__logo {
+  width: 270px;
+  height: 38px;
+  display: flex;
+  justify-content: center;
 }
